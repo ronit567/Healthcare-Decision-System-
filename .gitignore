@@ -36,7 +36,7 @@ out/
 
 # Logs
 *.log
-logs/
+/logs/
 
 # Coverage
 .coverage
